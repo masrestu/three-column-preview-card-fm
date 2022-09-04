@@ -24,6 +24,7 @@ main, .card, .card-item {
 main {
 	height: 97em;
 	position: relative;
+	background-color: var(--neutral-color-1);
 }
 
 .card {
